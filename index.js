@@ -13,4 +13,4 @@ const shortGreeting = `Welcome, ${firstInitial}!`;
 
 // we could also use:
 // const shortGreeting = `Welcome, ${currentUser.slice(0, 1)}!`;
-// when using the above line of code, code line 7 would not be necessary.
+// when using the above line of code, code line 10 would not be necessary.
