@@ -5,7 +5,7 @@ const welcomeMessage = `Welcome to Flatbook, ${currentUser}!`;
 const excitedWelcomeMessage = `WELCOME TO FLATBOOK, ${currentUser.toUpperCase()}!`;
 
 // or we could simply write the above code as:
-// const excitedWelcomeMessage = currentUser.toUpperCase();
+// const excitedWelcomeMessage = welcomeMessage.toUpperCase();
 
 const firstInitial = currentUser[0]
 
